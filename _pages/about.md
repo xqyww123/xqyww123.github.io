@@ -32,9 +32,8 @@ Drafts under review:
 - Certified programming that provides instant symbolic execution and a development environment  intergrated within Isabelle/Isar.
 - For sequential, terminating programs, but still capable for critical industrial applications like smart contracts.
 - [Github available](https://github.com/xqyww123/phi-system)
+- Published at [POPL'25](https://dl.acm.org/doi/abs/10.1145/3704903).
 
-**Publications**
 
-- Generically Automating Separation Logic by Functors, Homomorphisms, and Modules. *Qiyuan Xu, David Sanan, Zhe Hou, Xiaokun Luan, Conrad Watt, Yang Liu*, [POPL'25](https://dl.acm.org/doi/abs/10.1145/3704903)
 
 
