@@ -22,8 +22,9 @@ Isabelle infrastructures for machine learning:
 Sledgehammer wrapper / interfaces:
 - [Auto Sledgehammer](https://github.com/xqyww123/auto_sledgehammer)
 
-Drafts under review:
-- A Minimal Proof Language for Neural Theorem Proving over Isabelle/HOL. *Qiyuan Xu, Renxi Wang, Haonan Li, David Sanan, Conrad Watt*. [online draft](/files/MiniLang.pdf)
+Associated papers:
+
+- A Minimal Proof Language for Neural Theorem Proving over Isabelle/HOL. *Qiyuan Xu, Renxi Wang, Haonan Li, David Sanan, Conrad Watt*. [online draft under review](/files/MiniLang.pdf)
 
 ## An automated program verification platform over Isabelle
 
@@ -32,8 +33,9 @@ Drafts under review:
 - Certified programming that provides instant symbolic execution and a development environment  intergrated within Isabelle/Isar.
 - For sequential, terminating programs, but still capable for critical industrial applications like smart contracts.
 - [Github available](https://github.com/xqyww123/phi-system)
-- Published at [POPL'25](https://dl.acm.org/doi/abs/10.1145/3704903).
 
+Associated papers:
 
+- Generically Automating Separation Logic by Functors, Homomorphisms, and Modules. *Qiyuan Xu, David Sanan, Zhe Hou, Xiaokun Luan, Conrad Watt, Yang Liu*, [POPL'25](https://dl.acm.org/doi/abs/10.1145/3704903)
 
 
