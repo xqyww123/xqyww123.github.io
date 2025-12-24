@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/fse25
 excerpt: 'A software engineering work for proof repair over Isabelle.'
 date: 2025-06-19
-venue: 'FSE 25'
+venue: 'FSE'
 #slidesurl: '/files/Genericall_Automating_SL___Slides.pdf'
 paperurl: '/files/3715787.pdf'
 bibtexurl: '/files/fse25.bib'

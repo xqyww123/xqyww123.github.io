@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/popl25
 excerpt: 'Several generic abstract algebras for Separation Logic predicates are found, above which generic automations are built to reason about data structures and algorithms'
 date: 2025-01-09
-venue: 'POPL 25'
+venue: 'POPL'
 slidesurl: '/files/Genericall_Automating_SL___Slides.pdf'
 paperurl: '/files/Generically_Automating_Separation_Logic_by_Functors__Homomorphisms_and_Modules.pdf'
 bibtexurl: '/files/popl25.bib'
