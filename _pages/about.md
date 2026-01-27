@@ -24,7 +24,7 @@ Sledgehammer wrapper / interfaces:
 
 Associated papers:
 
-- A Minimal Proof Language for Neural Theorem Proving over Isabelle/HOL. *Qiyuan Xu, Renxi Wang, Haonan Li, David Sanan, Conrad Watt*. [online draft under review](/files/MiniLang.pdf)
+- A Minimal Proof Language for Neural Theorem Proving over Isabelle/HOL. *Qiyuan Xu, Renxi Wang, Haonan Li, David Sanan, Conrad Watt*. [OOPSLA'26](/files/MiniLang.pdf)
 
 ## An automated program verification platform over Isabelle
 
