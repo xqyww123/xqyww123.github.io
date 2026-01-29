@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 I am an [Isabelle](https://isabelle.in.tum.de/) hacker and a PhD candidate at Nanyang Technological University, supervised by [Conrad Watt](https://conrad-watt.github.io/). 
-Aimming to diminish the gap between verification for functional correctness and broad industry applications, my research interest focuses on program logics, program verification, automated theorem proving, and neural theorem proving.
 
+I am one of the 10 researchers in the past decade who have first-authored papers at both ICLR and POPL. See details [here](/10authors).
+
+Aimming to diminish the gap between verification for functional correctness and broad industry applications, my research interest focuses on program logics, program verification, automated theorem proving, and neural theorem proving.
 My current projects involve two directions:
 
 ## Neural Theorem Proving for Real-world Proof Engineering
