@@ -14,19 +14,16 @@ I am one of the 10 researchers in the past decade who have first-authored papers
 Aimming to diminish the gap between verification for functional correctness and broad industry applications, my research interest focuses on program logics, program verification, automated theorem proving, and neural theorem proving.
 My current projects involve two directions:
 
-## Neural Theorem Proving for Real-world Proof Engineering
+## Neural Theorem Proving for Program Verification over Rich Logics
 
-Isabelle infrastructures for machine learning:
-- [Isabelle REPL](https://github.com/xqyww123/Isa-REPL), a socket-based Isabelle REPL server for clusters.
-- [MiniLang](https://github.com/xqyww123/Isa-Mini), a minimal proof lanugage of Isabelle designed for LLM.
+In my [PhD thesis](https://doi.org/10.5281/zenodo.22053760), I predict that the combination of LLM agents and deductive verification over rich logics will ultimately achieve a breakthrough in program verification.
+
+Associated works:
+- [AoA](https://isabelle.zulipchat.com/#narrow/channel/202967-New-Members-.26-Projects/topic/The.20proof.20agent.20AoA.27s.20update.20channel/) Theorem Proving Agent over Abstract Syntax Tree of Redesigned Language. [preprint](https://arxiv.org/abs/2607.16372).
+- [MiniLang](https://github.com/xqyww123/Isa-Mini), a minimal proof language of Isabelle designed for LLM, published in [OOPSLA'26](https://dl.acm.org/doi/10.1145/3798275)
+- [IsaFinder](https://isabelle-semantics.qiyuan.me/), a semantic search engine for Isabelle/HOL and AFP.
 - [MLML](https://github.com/xqyww123/MLML), a machine learning framework for NTP over Isabelle.
 
-Sledgehammer wrapper / interfaces:
-- [Auto Sledgehammer](https://github.com/xqyww123/auto_sledgehammer)
-
-Associated papers:
-
-- A Minimal Proof Language for Neural Theorem Proving over Isabelle/HOL. *Qiyuan Xu, Renxi Wang, Haonan Li, David Sanan, Conrad Watt*. [OOPSLA'26](/files/MiniLang.pdf)
 
 ## An automated program verification platform over Isabelle
 
